@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sunil Prasad</h1>
 <h3 align="center">Full Stack Enthusiast</h3>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning *SpringBoot*
 
 - 👨‍💻 All of my projects are available at [https://github.com/SunilPrasad31](https://github.com/SunilPrasad31)
 
-- 💬 Ask me about **C,Java**
+- 💬 Ask me about *C,Java*
 
-- 📫 How to reach me **Sunilprasadcbe31@gmail.com**
+- 📫 How to reach me *Sunilprasadcbe31@gmail.com*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
